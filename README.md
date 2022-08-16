@@ -1,6 +1,7 @@
 # Olá , eu sou a Patricia Lima 
 
-💻 Estudando Gestão da Tecnologia da Informaçāo   
+💻 Estudando Analise e deselvolvimento de sistemas
+aluna de Front end {reprograma}
 
   </div>
 
